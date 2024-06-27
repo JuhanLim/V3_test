@@ -1,0 +1,8 @@
+asgiref
+Django
+django-rest-framework
+djangorestframework
+psycopg2-binary
+sqlparse
+tzdata
+wfastcgi
